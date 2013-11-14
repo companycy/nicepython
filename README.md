@@ -1,4 +1,4 @@
 nicepython
 ==========
 
-homework for nicepython
+homework for nice_python
