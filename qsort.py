@@ -33,6 +33,7 @@ def init():
     return arr
 
 if __name__ == '__main__':
+    """TODO: it can be more pythonic """
     arr = init()
     print 'before qsort: ', arr
     qsort(arr, 0, len(arr)-1)
